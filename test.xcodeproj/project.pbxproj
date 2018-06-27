@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CC96950D20E42C7E002BD1CF /* aaaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC96950C20E42C7E002BD1CF /* aaaViewController.swift */; };
 		CCCF2A8920E2F45400A3225E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF2A8820E2F45400A3225E /* AppDelegate.swift */; };
 		CCCF2A8B20E2F45400A3225E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF2A8A20E2F45400A3225E /* ViewController.swift */; };
 		CCCF2A8E20E2F45400A3225E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCCF2A8C20E2F45400A3225E /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CC96950C20E42C7E002BD1CF /* aaaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aaaViewController.swift; sourceTree = "<group>"; };
 		CCCF2A8520E2F45400A3225E /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCCF2A8820E2F45400A3225E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CCCF2A8A20E2F45400A3225E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				CCCF2A8820E2F45400A3225E /* AppDelegate.swift */,
 				CCCF2A8A20E2F45400A3225E /* ViewController.swift */,
 				CCCF2A8C20E2F45400A3225E /* Main.storyboard */,
+				CC96950C20E42C7E002BD1CF /* aaaViewController.swift */,
 				CCCF2A8F20E2F45500A3225E /* Assets.xcassets */,
 				CCCF2A9120E2F45500A3225E /* LaunchScreen.storyboard */,
 				CCCF2A9420E2F45500A3225E /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC96950D20E42C7E002BD1CF /* aaaViewController.swift in Sources */,
 				CCCF2A8B20E2F45400A3225E /* ViewController.swift in Sources */,
 				CCCF2A8920E2F45400A3225E /* AppDelegate.swift in Sources */,
 			);
